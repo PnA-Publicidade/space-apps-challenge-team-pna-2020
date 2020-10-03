@@ -377,7 +377,7 @@ margin:0px;
 display:block;
 }
 .main-nav ul li{
-width:28%;
+width:27%;
 list-style:none;
 padding:15px 0;
 margin:2%;
@@ -1474,7 +1474,7 @@ div.cs-skin-overlay {
 	transition: transform 0.4s, opacity 0.4s, visibility 0s 0.4s;
 	-webkit-transition-timing-function: cubic-bezier(0.7,0,0.3,1);
 	transition-timing-function: cubic-bezier(0.7,0,0.3,1);
-	-webkit-appearance: none;`
+	-webkit-appearance: none;
 }
 
 .cs-skin-overlay.cs-active .cs-options {
