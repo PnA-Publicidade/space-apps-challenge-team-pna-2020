@@ -4236,7 +4236,7 @@ html.pixel-ratio-3 .actions-popover-label:after {
   background: #fff;
   box-sizing: border-box;
   display: none;
-  overflow: auto;
+  overflow: hidden;
   -webkit-overflow-scrolling: touch;
   -webkit-transition-property: -webkit-transform;
   -moz-transition-property: -moz-transform;
