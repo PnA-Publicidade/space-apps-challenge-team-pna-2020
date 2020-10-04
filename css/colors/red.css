@@ -65,6 +65,13 @@ background-color:#e6e6e6;
   text-align: right;
 }
 
+.lista{
+  margin-left: 20px;
+}
+.lista li{
+  list-style: circle;
+}
+
 /*===============================================*/
 /* HOME BG AND PAGES HEADER BG */
 /*===============================================*/	
@@ -82,7 +89,9 @@ background-size: cover;
 }
 .navbarpages{
 background:url(../../images/colors/red/header.jpg) no-repeat center center;
+background-size: 100%;
 }
+
 /*===============================================*/
 /* MAIN NAV LINKS */
 /*===============================================*/	
